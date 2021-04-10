@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑🏻‍💻 Working at [Acquia](https://github.com/acquia)
+- 🧑🏻‍💻 Working at [Aeturnum](https://aeturnum.com)
 - 🔭 Alumni of [Lanka Software Foundation](http://opensource.lk/)
 - 👨🏻‍🎓 I’m graduated from [UCSC](https://ucsc.cmb.ac.lk/)
 - 👯 I’m looking to collaborate on [Open Source Projects](http://opensource.com/)
