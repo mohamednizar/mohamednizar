@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+- 🧐 I'm doing my Master of Science in IT Specialization in Cyber Security at [SLIIT](https://www.sliit.lk/)
 - 🧑🏻‍💻 Working at [Aeturnum](https://aeturnum.com)
 - 🔭 Alumni of [Lanka Software Foundation](http://opensource.lk/)
 - 👨🏻‍🎓 I’m graduated from [UCSC](https://ucsc.cmb.ac.lk/)
 - 👯 I’m looking to collaborate on [Open Source Projects](http://opensource.com/)
-
 - 🤔 I’m looking for help with 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamednizar&layout=compact&count_private=true)](https://github.com/mohamednizar/github-readme-stats)
