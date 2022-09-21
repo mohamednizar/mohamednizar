@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🧐 I'm doing my Master of Science in IT Specialization in Cyber Security at [SLIIT](https://www.sliit.lk/)
 - 🧑🏻‍💻 Working at [Aeturnum](https://aeturnum.com)
 - 🔭 Alumni of [Lanka Software Foundation](http://opensource.lk/)
 - 👨🏻‍🎓 I’m graduated from [UCSC](https://ucsc.cmb.ac.lk/)
